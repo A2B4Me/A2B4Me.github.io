@@ -14,3 +14,6 @@ Leonardo DiCaprio ist ein US-amerikanischer Schauspieler. Er ist aus vielen vers
 Der bekannteste Satz aus dem Film Titanic:
 
 > Ich bin der König der Welt
+
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Leonardo_DiCaprio_2002.jpg/220px-Leonardo_DiCaprio_2002.jpg"/>  
